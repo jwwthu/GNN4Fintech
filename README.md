@@ -5,15 +5,32 @@ If you find this repository helpful, you may consider cite our relevant work:
 * Coming soon
 
 # Stock Market Prediction
+## 2022
+### Journal
+* Cheng D, Yang F, Xiang S, et al. <b>Financial time series forecasting with multi-modality graph neural network[J]</b>. Pattern Recognition, 2022, 121: 108218. [Link](https://www.sciencedirect.com/science/article/pii/S003132032100399X)
+* Yin T, Liu C, Ding F, et al. <b>Graph-based stock correlation and prediction for high-frequency trading systems[J]</b>. Pattern Recognition, 2022, 122: 108209. [Link](https://www.sciencedirect.com/science/article/pii/S0031320321003903)
+* Feng S, Xu C, Zuo Y, et al. <b>Relation-aware dynamic attributed graph attention network for stocks recommendation[J]</b>. Pattern Recognition, 2022, 121: 108119. [Link](https://www.sciencedirect.com/science/article/pii/S003132032100306X)
+
 ## 2021
 ### Journal
 * Wu J M T, Li Z, Herencsar N, et al. <b>A graph-based CNN-LSTM stock price prediction algorithm with leading indicators[J]</b>. Multimedia Systems, 2021: 1-20. [Link](https://link.springer.com/article/10.1007/s00530-021-00758-w)
 * Wu J M T, Li Z, Srivastava G, et al. <b>A graph‐based convolutional neural network stock price prediction with leading indicators[J]</b>. Software: Practice and Experience, 2021, 51(3): 628-644. [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/spe.2915)
 * Chen W, Jiang M, Zhang W G, et al. <b>A novel graph convolutional feature based convolutional neural network for stock trend prediction[J]</b>. Information Sciences, 2021, 556: 67-94. [Link](https://www.sciencedirect.com/science/article/pii/S0020025520312342)
+* Hsu Y L, Tsai Y C, Li C T. <b>FinGAT: Financial Graph Attention Networks for Recommending Top-K Profitable Stocks[J]</b>. IEEE Transactions on Knowledge and Data Engineering, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9431685/) [Code](https://github.com/Roytsai27/Financial-GraphAttention)
+* Gao J, Ying X, Xu C, et al. <b>Graph-Based Stock Recommendation by Time-Aware Relational Attention Network[J]</b>. ACM Transactions on Knowledge Discovery from Data (TKDD), 2021, 16(1): 1-21. [Link](https://dl.acm.org/doi/abs/10.1145/3451397) [Code](https://github.com/xiaoting135/TRAN)
+* Xiong K, Ding X, Du L, et al. <b>Heterogeneous graph knowledge enhanced stock market prediction[J]</b>. AI Open, 2021, 2: 168-174. [Link](https://www.sciencedirect.com/science/article/pii/S2666651021000243)
 * Hou X, Wang K, Zhong C, et al. <b>ST-Trader: A Spatial-Temporal Deep Neural Network for Modeling Stock Market Movement[J]</b>. IEEE/CAA Journal of Automatica Sinica, 2021, 8(5): 1015-1024. [Link](https://ieeexplore.ieee.org/abstract/document/9395542/)
 
 ### Conference
+* Wei T, You Y, Chen T. <b>AR-Stock: Deep Augmented Relational Stock Prediction[C]</b>. The AAAI21 Workshop on Knowledge Discovery from Unstructured Data in Financial Services 2021. [Link](https://tianlong-chen.github.io/AAAIW-21/)
+* Sawhney R, Agarwal S, Wadhwa A, et al. <b>Exploring the Scale-Free Nature of Stock Markets: Hyperbolic Graph Learning for Algorithmic Trading[C]</b>//Proceedings of the Web Conference 2021. 2021: 11-22. [Link](https://dl.acm.org/doi/abs/10.1145/3442381.3450095)
+* Zhao L, Li W, Bao R, et al. <b>Long-term, Short-term and Sudden Event: Trading Volume Movement Prediction with Graph-based Multi-view Modeling[C]</b>. IJCAI, 2021. [Link](https://www.ijcai.org/proceedings/2021/0518.pdf) [Code](https://github.com/lancopku/CGM)
 * Cheng R, Li Q. <b>Modeling the Momentum Spillover Effect for Stock Prediction via Attribute-Driven Graph Attention Networks[C]</b>. AAAI, 2021. [Link](https://www.aaai.org/AAAI21Papers/AAAI-5328.ChengR.pdf) [Code](https://github.com/RuichengFIC/ADGAT)
+
+### Preprint
+* Chen Q, Robert C Y. <b>Graph-Based Learning for Stock Movement Prediction with Textual and Relational Data[J]</b>. arXiv preprint arXiv:2107.10941, 2021. [Link](https://arxiv.org/abs/2107.10941)
+* Xu W, Liu W, Wang L, et al. <b>HIST: A Graph-based Framework for Stock Trend Forecasting via Mining Concept-Oriented Shared Information[J]</b>. arXiv preprint arXiv:2110.13716, 2021. [Link](https://arxiv.org/abs/2110.13716) [Code](https://github.com/Wentao-Xu/HIST)
+* Wu J, Xu K, Chen X, et al. <b>Price graphs: Utilizing the structural information of financial time series for stock prediction[J]</b>. arXiv preprint arXiv:2106.02522, 2021. [Link](https://arxiv.org/abs/2106.02522v5) [Code](https://github.com/BUAA-WJR/PriceGraph)
 
 ## 2020
 ### Journal
