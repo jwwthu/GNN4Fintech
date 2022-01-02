@@ -55,7 +55,7 @@ If you find this repository helpful, you may consider cite our relevant work:
 
 ### Preprint
 * Matsunaga D, Suzumura T, Takahashi T. <b>Exploring graph neural networks for stock market predictions with rolling window analysis[J]</b>. arXiv preprint arXiv:1909.10660, 2019. [Link](https://arxiv.org/abs/1909.10660)
-* Kim R, So C H, Jeong M, et al. <b>Hats: A hierarchical graph attention network for stock movement prediction[J]</b>. arXiv preprint arXiv:1908.07999, 2019. [Link](https://arxiv.org/abs/1908.07999)
+* Kim R, So C H, Jeong M, et al. <b>Hats: A hierarchical graph attention network for stock movement prediction[J]</b>. arXiv preprint arXiv:1908.07999, 2019. [Link](https://arxiv.org/abs/1908.07999) [Code](https://github.com/dmis-lab/hats)
 
 ## 2018
 ### Conference
