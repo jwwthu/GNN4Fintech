@@ -13,8 +13,6 @@ If you find this repository helpful, you may consider cite our relevant work:
 
 ## 2021
 ### Journal
-* Wu J M T, Li Z, Herencsar N, et al. <b>A graph-based CNN-LSTM stock price prediction algorithm with leading indicators[J]</b>. Multimedia Systems, 2021: 1-20. [Link](https://link.springer.com/article/10.1007/s00530-021-00758-w)
-* Wu J M T, Li Z, Srivastava G, et al. <b>A graph‐based convolutional neural network stock price prediction with leading indicators[J]</b>. Software: Practice and Experience, 2021, 51(3): 628-644. [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/spe.2915)
 * Chen W, Jiang M, Zhang W G, et al. <b>A novel graph convolutional feature based convolutional neural network for stock trend prediction[J]</b>. Information Sciences, 2021, 556: 67-94. [Link](https://www.sciencedirect.com/science/article/pii/S0020025520312342)
 * Hsu Y L, Tsai Y C, Li C T. <b>FinGAT: Financial Graph Attention Networks for Recommending Top-K Profitable Stocks[J]</b>. IEEE Transactions on Knowledge and Data Engineering, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9431685/) [Code](https://github.com/Roytsai27/Financial-GraphAttention)
 * Gao J, Ying X, Xu C, et al. <b>Graph-Based Stock Recommendation by Time-Aware Relational Attention Network[J]</b>. ACM Transactions on Knowledge Discovery from Data (TKDD), 2021, 16(1): 1-21. [Link](https://dl.acm.org/doi/abs/10.1145/3451397) [Code](https://github.com/xiaoting135/TRAN)
